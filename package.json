@@ -62,7 +62,7 @@
     "katex": "^0.15.2",
     "mark.js": "^8.11.1",
     "masonry-layout": "^4.2.2",
-    "mermaid": "^8.14.0",
+    "mermaid": "^10.1.0",
     "mustache": "^4.2.0",
     "onchange": "^7.1.0",
     "postcss-cli": "^9.1.0",
@@ -79,6 +79,6 @@
     "copy-webpack-plugin": "^10.2.4",
     "webpack-cli": "^4.9.1"
   },
-  "name": "hugo-theme-bootstrap-skeleton",
+  "name": "",
   "version": "0.1.0"
 }
